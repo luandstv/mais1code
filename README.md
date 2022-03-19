@@ -26,3 +26,9 @@
 
 - Tags são elementos do HTML  
 - São constituídas por uma ou mais letras que devem estar entre os sinais de "<" e ">" 
+
+### Estrutura do HTML
+
+- A estrutura do HTML é formada por uma Tag <!DOCTYPE html>
+- Seguido de uma Tag <html lang="pt-br"> que é fechada por uma tag </html>
+- Dentro da Tag html ficam duas tags chamadas <head></head> e <body></body>  
