@@ -34,5 +34,5 @@
 - Dentro da Tag html ficam duas tags chamadas < head >< /head > e < body>< /body > 
  - Na tag HEAD fica registrado todo tipo de meta-informaçao do documento
  - Nada que se declare dentro dela é visível no navegador
- - As únicas tags que devem ser abrigadas dentro da tag HEAD sao < link > < meta >
- < script > < style > e < title >
+ - As únicas tags que devem ser abrigadas dentro da tag HEAD sao 
+ - < link > < meta > < script > < style > e < title >
