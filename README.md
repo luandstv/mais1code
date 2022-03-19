@@ -24,4 +24,4 @@
 
 ### TAGS HTML
 
-- Tags são elementos do HTML e são constituídas por uma ou mais letras que devem estar entre os sinais de "<" e ">" 
+- Tags são elementos do HTML e são constituídas por uma ou mais * letras que devem estar entre os sinais de "<" e ">" *
