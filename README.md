@@ -21,3 +21,7 @@
  - Para podermos ver o HTML precismos de um Browser ou Navegador, Ex: Firefox, Safari, Opera, Chrome, etc..
 
 - Usaremos o Editor de Texto [VSCODE](https://code.visualstudio.com/)
+
+### TAGS HTML
+
+- Tags são elementos do HTML e são constituídas por uma ou mais letras que devem estar entre os sinais de "<" e ">" 
